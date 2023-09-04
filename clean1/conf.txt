@@ -1,0 +1,3 @@
+/home/denis/test
+Yes
++1

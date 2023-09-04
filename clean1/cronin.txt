@@ -1,0 +1,2 @@
+HOME="/home/denis"
+0 0 1 * * /home/denis/.clean/cleaner.sh; $HOME

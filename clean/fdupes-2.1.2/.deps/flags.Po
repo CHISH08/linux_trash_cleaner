@@ -1,0 +1,5 @@
+flags.o: flags.c /usr/include/stdc-predef.h flags.h
+
+/usr/include/stdc-predef.h:
+
+flags.h:
